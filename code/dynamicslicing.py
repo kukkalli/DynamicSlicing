@@ -160,7 +160,7 @@ for i, l in enumerate(all_paths):
     l_y_coordinate = [point.get_y() for point in l]
     plt.plot(l_x_coordinate, l_y_coordinate, 'black', label='Path of the Vehicle', linewidth=1, )
 
-print("number of kilometers: ", (number_of_points - len(all_paths)) / 4)
+print("number of kilometers: ", (number_of_points - len(all_paths)))
 
 # Plot the path of the vehicle
 # plt.plot(path_x_coordinate, path_y_coordinate, 'black', label='Path of the Vehicle', linewidth=2, )
