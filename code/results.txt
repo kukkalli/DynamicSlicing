@@ -1,0 +1,51 @@
+total_travel_distance:  12
+total_travel_distance:  10
+total_travel_distance:   5
+total_travel_distance:   8
+total_travel_distance:  10
+total_travel_distance:   7
+total_travel_distance:   6
+total_travel_distance:   9
+total_travel_distance:   9
+total_travel_distance:  14
+total_travel_distance:  12
+total_travel_distance:  15
+total_travel_distance:   7
+total_travel_distance:  13
+total_travel_distance:  13
+total_travel_distance:  15
+total_travel_distance:   8
+total_travel_distance:   8
+total_travel_distance:   8
+total_travel_distance:  13
+==========================
+                       202
+
+DYSOLVE
+-----------------------------------------
+Number of paths:		20
+provider A cells count:		156
+provider B cells count:		156
+Selected number of cells:	119
+No signal points:		3
+No signal distance:		1.50 km
+Total number of path points:	405
+number of kilometers:		202.00 km
+Mean path distance:		10.10 km
+Mean no coverage distance:	0.007 km
+Mean blind spots per km:	0.015/km
+
+Baseline
+-----------------------------------------
+Number of paths:		20
+provider A cells count:		156
+provider B cells count:		156
+Selected number of cells:	156
+No signal points:		60
+No signal distance:		22.25 km
+Total number of path points:	405
+number of kilometers:		202.00 km
+Mean path distance:		10.10 km
+Mean no coverage distance:	0.110 km
+Mean blind spots per km:	0.297/km
+
