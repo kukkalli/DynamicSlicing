@@ -191,8 +191,8 @@ plt.scatter(cell_x_coordinate_b, cell_y_coordinate_b, s=40, c='#a02c2d', label=o
 # Show plot
 # plt.show()
 
-filename = selection + "_25_" + frequency_text.replace('.', ',').replace(' ', '') + "_" \
+filename = selection + "_" + frequency_text.replace('.', ',').replace(' ', '') + "_" \
            + str(cell_density_p_a).replace('.', ',') \
            + "_" + str(cell_density_p_b).replace('.', ',') + ".pdf"
 
-plt.savefig(filename, bbox_inches='tight')
+plt.savefig("../images/" + filename, bbox_inches='tight')
