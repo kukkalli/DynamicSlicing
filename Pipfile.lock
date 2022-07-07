@@ -112,7 +112,7 @@
                 "sha256:f718a7949d1c4f622ff548c572e0c03440b49b9531ff00e4ed5738b459f011e8"
             ],
             "markers": "python_version >= '3.5'",
-            "version": "==1.18.5"
+            "version": ">=1.22"
         },
         "pandas": {
             "hashes": [
