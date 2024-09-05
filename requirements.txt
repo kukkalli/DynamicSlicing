@@ -1,6 +1,6 @@
 pandas~=1.0.4
 scipy~=1.10.0
-requests~=2.31.0
+requests~=2.32.2
 matplotlib~=3.2.1
 numpy~=1.22
 urllib3~=1.26.19
