@@ -397,7 +397,7 @@
             ],
             "index": "pypi",
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
-            "version": "==1.26.19"
+            "version": ">=2.6.2"
         }
     },
     "develop": {
@@ -407,7 +407,7 @@
                 "sha256:a7acd0977125325f516bda9735fa7142b909a8d01e8b2e4c8108d0984e6e0098"
             ],
             "index": "pypi",
-            "version": "==1.26.5"
+            "version": ">=2.6.2"
         }
     }
 }
